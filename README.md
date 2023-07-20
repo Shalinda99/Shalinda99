@@ -2,6 +2,8 @@
 
 <h4>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm a IT Undergraduate.</h4>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shalinda99&label=Profile%20views&color=0e75b6&style=flat" alt="Shalinda99" /> </p>
+
 - 🔭 I’m currently studying at University of Moratuwa.
 - 🌱 I’m currently learning everything.
 - 👯 I am looking for an internship for Software Engineering.
@@ -43,3 +45,9 @@
   <img  alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img  alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img  alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<p  align="center" width="400"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Shalinda99&show_icons=true&theme=radical&layout=compact" alt="Shalinda99" /></p>
+
+<p align="center" width="400">&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shalinda99&show_icons=true&theme=radical" alt="Shalinda99" /></p>
+
+<p align="center" width="400"><img src="https://github-readme-stats.vercel.app/api?username=Shalinda99&show_icons=true&theme=radical" alt="Shalinda99" /></p>
