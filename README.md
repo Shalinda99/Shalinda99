@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at University of Moratuwa.
 - 🌱 I’m currently learning everything.
-- 👯 I am looking for an internship for Software Engineering.
+- 👯 Driven by a dual love for AI and software, I am an enthusiast who engineers the future.
 - 🤔 All of my projects are available at https://github.com/Shalinda99
 - 📫 How to reach me: amalshalinda1999@gmail.com & https://shalinda.netlify.app/
   <p align="center">
@@ -16,9 +16,9 @@
   <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width=30pcx>
   <p align="left">
   &#8226;
-  <a href="https://www.linkedin.com/in/amal-shalinda-188885231/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ashan-tharaka" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/amal-shalinda-188885231/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Amal shalinda" height="30" width="30" /></a>
   &#8226;
-  <a href="https://stackoverflow.com/users/20077961/amal-shalinda" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="ashan" height="30" width="30" /></a>
+  <a href="https://stackoverflow.com/users/20077961/amal-shalinda" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Amal" height="30" width="30" /></a>
   &#8226;
   <a href="https://www.facebook.com/amal.shalinda.73" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png"  height="30" width="30" /></a>
   &#8226;
