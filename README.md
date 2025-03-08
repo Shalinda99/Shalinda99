@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently studying at University of Moratuwa.
 - 🌱 I’m currently learning everything.
-- 👯 Driven by a dual love for AI and software, I am an enthusiast who engineers the future.
+- 💻 Passionate about creating software solutions with Web Development, I am an enthusiast who engineers the future.
 - 🤔 All of my projects are available at https://github.com/Shalinda99
-- 📫 How to reach me: amalshalinda1999@gmail.com & https://shalinda.netlify.app/
+- 📫 How to reach me: amalshalinda1999@gmail.com & https://shalinda.vercel.app/
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+Student+and+Quick+Learner"></a>
   </p>
@@ -36,7 +36,9 @@
   <img  alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img  alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img  alt="java"  width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-  
+  <img alt="Golang" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+  <img alt="Docker" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png" />
+  <img alt="Jenkins" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Jenkins_logo.png" />
   <img alt="c" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/>
   <img  alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="50px" />
