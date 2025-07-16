@@ -1,6 +1,6 @@
 <h1 align="center"> <b>Hi, I am Amal Shalinda...👋</b></h1>
 
-<h4>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm a Software Engineer.</h4>
+<h4>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm a Software Developer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shalinda99&label=Profile%20views&color=0e75b6&style=flat" alt="Shalinda99" /> </p>
 <p align="center">
